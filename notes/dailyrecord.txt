@@ -1,0 +1,5 @@
+Sep 8
+Thinking/design for timeshare stuff
+Reading on Scala for the Impatient
+
+
