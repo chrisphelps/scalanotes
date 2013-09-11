@@ -5,3 +5,9 @@ Reading on Scala for the Impatient
 Sep 9
 More reading on Scala for the Impatient
 Tried to use /% but not on int. Maybe try this with implicit.
+
+Sep 10
+More Scala for Impatient
+AngularJS Denver meetup
+Seriously thinking about translating work classes into Scala just because
+
