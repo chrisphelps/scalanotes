@@ -12,3 +12,7 @@ Seriously thinking about translating work classes into Scala just because
 
 Sep 11
 Did some notes in notebook for timeshare
+
+Sep 12
+Chatted about taikai with Andrew
+
