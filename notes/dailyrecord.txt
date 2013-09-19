@@ -28,4 +28,5 @@ Watched some Coursera week 1 videos
 Sep 18
 Reading on Scala for Impatient
 Rewrote one of my work classes in Scala
+Finished Coursera week 1 vids
 
