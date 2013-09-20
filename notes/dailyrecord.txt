@@ -30,3 +30,7 @@ Reading on Scala for Impatient
 Rewrote one of my work classes in Scala
 Finished Coursera week 1 vids
 
+Sep 19
+Reading on Scala for Impatient
+Coursera Getting Started assignment
+
