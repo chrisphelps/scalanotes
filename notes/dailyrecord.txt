@@ -34,3 +34,7 @@ Sep 19
 Reading on Scala for Impatient
 Coursera Getting Started assignment
 
+Sep 20 
+More Scala for the Impatient
+Messing around with work class into Scala
+
