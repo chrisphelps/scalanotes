@@ -38,3 +38,9 @@ Sep 20
 More Scala for the Impatient
 Messing around with work class into Scala
 
+Sep 21
+Set up local project with work classes
+Researched circular dependencies
+
+
+
