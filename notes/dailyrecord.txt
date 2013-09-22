@@ -41,6 +41,7 @@ Messing around with work class into Scala
 Sep 21
 Set up local project with work classes
 Researched circular dependencies
+Watched Jonas' Reactive JavaZone talk
 
 
 
