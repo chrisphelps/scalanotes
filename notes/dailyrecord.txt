@@ -43,5 +43,8 @@ Set up local project with work classes
 Researched circular dependencies
 Watched Jonas' Reactive JavaZone talk
 
+Sep 22
+Scala class recfun assignment
+
 
 
