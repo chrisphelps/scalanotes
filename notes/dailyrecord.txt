@@ -48,5 +48,8 @@ Scala class recfun assignment
 
 Sep 23
 Rewrote second work class in Scala
+Worked with work class to get compiling
+Finished Scala for Impatient
+Watched some class vids
 
 
