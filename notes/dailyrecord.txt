@@ -46,5 +46,7 @@ Watched Jonas' Reactive JavaZone talk
 Sep 22
 Scala class recfun assignment
 
+Sep 23
+Rewrote second work class in Scala
 
 
