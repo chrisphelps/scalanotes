@@ -52,4 +52,6 @@ Worked with work class to get compiling
 Finished Scala for Impatient
 Watched some class vids
 
+Sep 24
+Rewrote two more work classes
 
