@@ -57,3 +57,6 @@ Rewrote two more work classes
 Finished coursera week 2 videos
 Started funsets assignment
 
+Sep 25
+Worked on funsets
+
