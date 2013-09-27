@@ -60,3 +60,7 @@ Started funsets assignment
 Sep 25
 Worked on funsets
 
+Sep 26
+Finished and submitted funsets
+
+
