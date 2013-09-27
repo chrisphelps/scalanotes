@@ -63,4 +63,7 @@ Worked on funsets
 Sep 26
 Finished and submitted funsets
 
+Sep 27
+Worked on SnapperChain (from Google CodeJam practice problems)
+Read on Functional Programming in Scala
 
