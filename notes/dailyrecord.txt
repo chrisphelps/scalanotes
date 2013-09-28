@@ -67,3 +67,6 @@ Sep 27
 Worked on SnapperChain (from Google CodeJam practice problems)
 Read on Functional Programming in Scala
 
+Sep 28
+Some exercises from FP in Scala
+
