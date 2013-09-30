@@ -70,3 +70,6 @@ Read on Functional Programming in Scala
 Sep 28
 Some exercises from FP in Scala
 
+Sep 29
+Started coursera week 3 videos
+
