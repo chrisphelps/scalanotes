@@ -76,4 +76,6 @@ Started coursera week 3 videos
 Sep 30
 Finished coursera week 3 videos
 
+Oct 1
+Started objsets assignment
 
