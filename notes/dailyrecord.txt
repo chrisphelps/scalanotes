@@ -84,4 +84,7 @@ Worked on objsets assignment
 
 Oct 3
 First submission of ojbsets. TOO SLOW!
+Lots of thinking about what was wrong
+Adjusted and resubmitted. Full credit FTW
+
 
