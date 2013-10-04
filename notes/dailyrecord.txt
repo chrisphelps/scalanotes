@@ -82,3 +82,6 @@ Started objsets assignment
 Oct 2
 Worked on objsets assignment
 
+Oct 3
+First submission of ojbsets. TOO SLOW!
+
