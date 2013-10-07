@@ -87,4 +87,11 @@ First submission of ojbsets. TOO SLOW!
 Lots of thinking about what was wrong
 Adjusted and resubmitted. Full credit FTW
 
+Oct 4
+Some domain thoughts on Taikai
 
+Oct 5
+Some test case thoughts on Taikai
+
+Oct 6
+Initial domain thoughts on Timeshare
