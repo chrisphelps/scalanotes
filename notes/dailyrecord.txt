@@ -95,3 +95,7 @@ Some test case thoughts on Taikai
 
 Oct 6
 Initial domain thoughts on Timeshare
+
+Oct 7
+Watched some scala class week 4 vids
+
