@@ -103,3 +103,6 @@ Oct 8
 Attended Boulder JUG meeting with Venkat S on invokedynamic and Java 8
 Email exchanges with James Ward on whether to use Activator and upgrade Play
 
+Oct 9
+Some scala class vids
+
