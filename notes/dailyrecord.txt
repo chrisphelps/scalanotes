@@ -106,3 +106,6 @@ Email exchanges with James Ward on whether to use Activator and upgrade Play
 Oct 9
 Some scala class vids
 
+Oct 10
+Finished week 4 scala class vids
+
