@@ -109,3 +109,6 @@ Some scala class vids
 Oct 10
 Finished week 4 scala class vids
 
+Oct 11
+Started patmat assignment for scala class
+
