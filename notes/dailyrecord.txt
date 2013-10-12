@@ -112,3 +112,6 @@ Finished week 4 scala class vids
 Oct 11
 Started patmat assignment for scala class
 
+Oct 12
+Worked more on patmat assignment
+
