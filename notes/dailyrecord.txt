@@ -116,3 +116,6 @@ Oct 12
 Worked more on patmat assignment
 More patmat, including a couple test submits to see progress
 
+Oct 13
+Finished and submitted patmat
+
