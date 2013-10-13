@@ -114,4 +114,5 @@ Started patmat assignment for scala class
 
 Oct 12
 Worked more on patmat assignment
+More patmat, including a couple test submits to see progress
 
