@@ -118,4 +118,5 @@ More patmat, including a couple test submits to see progress
 
 Oct 13
 Finished and submitted patmat
+Started some week 5 videos
 
