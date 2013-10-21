@@ -126,3 +126,6 @@ More week 5 videos
 Oct 15
 Finished week 5 videos
 
+Oct 21
+Setup for forcomp assignment
+
