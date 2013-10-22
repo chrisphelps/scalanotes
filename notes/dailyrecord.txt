@@ -129,4 +129,5 @@ Finished week 5 videos
 Oct 21
 Setup for forcomp assignment
 Started on week 5 videos
+Started on forcomp assignment
 
