@@ -140,3 +140,6 @@ Worked on forcomp more - combinations in the bag
 Oct 24
 Watched a little bit of vids. Didn't make much progress.
 
+Oct 25
+More scala class vids.
+
