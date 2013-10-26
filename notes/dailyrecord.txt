@@ -143,3 +143,6 @@ Watched a little bit of vids. Didn't make much progress.
 Oct 25
 More scala class vids.
 
+Oct 26
+Another class vid.
+
