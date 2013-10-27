@@ -146,3 +146,6 @@ More scala class vids.
 Oct 26
 Another class vid.
 
+Oct 27
+Finished (finally) week 6 class vids.
+
