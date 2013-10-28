@@ -148,4 +148,5 @@ Another class vid.
 
 Oct 27
 Finished (finally) week 6 class vids.
+Finished and submitted forcomp assignment
 
