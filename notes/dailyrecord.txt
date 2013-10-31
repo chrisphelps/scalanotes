@@ -156,3 +156,7 @@ Started week 7 class vids
 Oct 29
 Week 7 vids
 
+Oct 30
+Reviewed a ton of scala-users emails
+
+
