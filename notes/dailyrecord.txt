@@ -162,4 +162,6 @@ Reviewed a ton of scala-users emails
 Oct 31
 Watched more class vids
 
+Nov 1
+More class vids
 
