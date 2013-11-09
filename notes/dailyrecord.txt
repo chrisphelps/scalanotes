@@ -188,3 +188,7 @@ ZOMG Finished Bloxorz  FP IN SCALA CLASS DONE
 Nov 7
 Finished Reactive week 1 vids
 
+Nov 8
+Started Quickcheck assignment
+
+ 
