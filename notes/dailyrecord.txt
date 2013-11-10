@@ -191,4 +191,8 @@ Finished Reactive week 1 vids
 Nov 8
 Started Quickcheck assignment
 
+Nov 9
+Finished quickcheck assignment
+
+
  
