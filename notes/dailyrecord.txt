@@ -197,4 +197,6 @@ Finished quickcheck assignment
 Nov 10
 Read scala-users emails
 
+Nov 11
+Started Reactive week 2 vids
  
