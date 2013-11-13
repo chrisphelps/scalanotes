@@ -205,3 +205,6 @@ Boulder JUG (not scala)
 Reactive week 2 vids
 Downloaded and looked at simulations assignment
  
+Nov 13
+Reactive week 2 vids
+
