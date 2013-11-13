@@ -199,4 +199,9 @@ Read scala-users emails
 
 Nov 11
 Started Reactive week 2 vids
+
+Nov 12
+Boulder JUG (not scala)
+Reactive week 2 vids
+Downloaded and looked at simulations assignment
  
