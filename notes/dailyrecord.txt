@@ -212,3 +212,6 @@ Circuits part of the simulations assignment
 Nov 14
 More simulations assignment - reworked demux
 
+Nov 15
+More simulations - started epidemiology
+
