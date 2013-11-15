@@ -208,3 +208,7 @@ Downloaded and looked at simulations assignment
 Nov 13
 Reactive week 2 vids - finished
 Circuits part of the simulations assignment 
+
+Nov 14
+More simulations assignment - reworked demux
+
