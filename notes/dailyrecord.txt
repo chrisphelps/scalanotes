@@ -215,3 +215,7 @@ More simulations assignment - reworked demux
 Nov 15
 More simulations - started epidemiology
 
+Nov 16
+More simulations
+
+
