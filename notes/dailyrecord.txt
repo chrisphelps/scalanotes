@@ -237,3 +237,6 @@ Reactive week 3 vids
 Nov 22
 Started on NodeScala assignment
 
+Nov 23
+More NodeScala
+
