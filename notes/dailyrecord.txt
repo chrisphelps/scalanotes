@@ -240,3 +240,7 @@ Started on NodeScala assignment
 Nov 23
 More NodeScala
 
+Nov 25
+More NodeScala
+Started Week 4 vids
+
