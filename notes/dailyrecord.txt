@@ -244,3 +244,7 @@ Nov 25
 More NodeScala
 Started Week 4 vids
 
+Nov 26
+Discussion and review on adoption business cases
+Discussion of class topics with coworkers
+
