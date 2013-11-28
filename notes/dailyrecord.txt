@@ -248,3 +248,6 @@ Nov 26
 Discussion and review on adoption business cases
 Discussion of class topics with coworkers
 
+Nov 27
+More nodescala
+
