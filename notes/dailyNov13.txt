@@ -1,0 +1,98 @@
+Nov 1
+More class vids
+Finished all class vids
+
+Nov 2
+Started on bloxorz assignment
+
+Nov 3
+More bloxorz
+
+Nov 4
+More bloxorz
+Still more bloxorz
+Watched first video from Reactive class
+
+Nov 5
+Reactive class vids
+
+Nov 6
+Reactive class vids
+Bloxorz
+ZOMG Finished Bloxorz  FP IN SCALA CLASS DONE
+
+Nov 7
+Finished Reactive week 1 vids
+
+Nov 8
+Started Quickcheck assignment
+
+Nov 9
+Finished quickcheck assignment
+
+Nov 10
+Read scala-users emails
+
+Nov 11
+Started Reactive week 2 vids
+
+Nov 12
+Boulder JUG (not scala)
+Reactive week 2 vids
+Downloaded and looked at simulations assignment
+ 
+Nov 13
+Reactive week 2 vids - finished
+Circuits part of the simulations assignment 
+
+Nov 14
+More simulations assignment - reworked demux
+
+Nov 15
+More simulations - started epidemiology
+
+Nov 16
+More simulations
+
+Nov 17
+More simulations
+
+Nov 18
+Submitted simulations - not quite complete
+
+Nov 19
+More simulations - a bit further along but still not 100%. Good enough for now.
+Simulations - finally got it! W00t!
+
+Nov 20
+Reactive week 3 vids
+
+Nov 21
+Reactive week 3 vids
+
+Nov 22
+Started on NodeScala assignment
+
+Nov 23
+More NodeScala
+
+Nov 25
+More NodeScala
+Started Week 4 vids
+
+Nov 26
+Discussion and review on adoption business cases
+Discussion of class topics with coworkers
+
+Nov 27
+More nodescala
+
+Nov 28
+Finished nodescala
+
+Nov 29
+Week 4 vids
+
+Nov 30
+Week 4 vids finish
+

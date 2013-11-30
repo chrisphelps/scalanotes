@@ -1,0 +1,86 @@
+Oct 1
+Started objsets assignment
+
+Oct 2
+Worked on objsets assignment
+
+Oct 3
+First submission of ojbsets. TOO SLOW!
+Lots of thinking about what was wrong
+Adjusted and resubmitted. Full credit FTW
+
+Oct 4
+Some domain thoughts on Taikai
+
+Oct 5
+Some test case thoughts on Taikai
+
+Oct 6
+Initial domain thoughts on Timeshare
+
+Oct 7
+Watched some scala class week 4 vids
+
+Oct 8
+Attended Boulder JUG meeting with Venkat S on invokedynamic and Java 8
+Email exchanges with James Ward on whether to use Activator and upgrade Play
+
+Oct 9
+Some scala class vids
+
+Oct 10
+Finished week 4 scala class vids
+
+Oct 11
+Started patmat assignment for scala class
+
+Oct 12
+Worked more on patmat assignment
+More patmat, including a couple test submits to see progress
+
+Oct 13
+Finished and submitted patmat
+Started some week 5 videos
+
+Oct 14
+More week 5 videos
+
+Oct 15
+Finished week 5 videos
+
+Oct 21
+Setup for forcomp assignment
+Started on week 5 videos
+Started on forcomp assignment
+
+Oct 22
+Dreamed about forcomp assignment
+Worked on forcomp assignment
+Watched a video
+Worked on forcomp more - combinations in the bag
+
+Oct 24
+Watched a little bit of vids. Didn't make much progress.
+
+Oct 25
+More scala class vids.
+
+Oct 26
+Another class vid.
+
+Oct 27
+Finished (finally) week 6 class vids.
+Finished and submitted forcomp assignment
+
+Oct 28
+Started week 7 class vids
+
+Oct 29
+Week 7 vids
+
+Oct 30
+Reviewed a ton of scala-users emails
+
+Oct 31
+Watched more class vids
+

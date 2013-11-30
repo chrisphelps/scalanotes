@@ -1,0 +1,78 @@
+Sep 8
+Thinking/design for timeshare stuff
+Reading on Scala for the Impatient
+
+Sep 9
+More reading on Scala for the Impatient
+Tried to use /% but not on int. Maybe try this with implicit.
+
+Sep 10
+More Scala for Impatient
+Seriously thinking about translating work classes into Scala just because
+
+Sep 11
+Did some notes in notebook for timeshare
+
+Sep 12
+Chatted about taikai with Andrew
+
+Sep 16
+Review class materials for coursera class
+
+Sep 17
+Thinking about changing my attitude
+Talked with my recruiter
+Flood aftermath - not coding but Im not even mad
+Watched some Coursera week 1 videos
+
+Sep 18
+Reading on Scala for Impatient
+Rewrote one of my work classes in Scala
+Finished Coursera week 1 vids
+
+Sep 19
+Reading on Scala for Impatient
+Coursera Getting Started assignment
+
+Sep 20 
+More Scala for the Impatient
+Messing around with work class into Scala
+
+Sep 21
+Set up local project with work classes
+Researched circular dependencies
+Watched Jonas' Reactive JavaZone talk
+
+Sep 22
+Scala class recfun assignment
+
+Sep 23
+Rewrote second work class in Scala
+Worked with work class to get compiling
+Finished Scala for Impatient
+Watched some class vids
+
+Sep 24
+Rewrote two more work classes
+Finished coursera week 2 videos
+Started funsets assignment
+
+Sep 25
+Worked on funsets
+
+Sep 26
+Finished and submitted funsets
+
+Sep 27
+Worked on SnapperChain (from Google CodeJam practice problems)
+Read on Functional Programming in Scala
+
+Sep 28
+Some exercises from FP in Scala
+
+Sep 29
+Started coursera week 3 videos
+
+Sep 30
+Finished coursera week 3 videos
+
