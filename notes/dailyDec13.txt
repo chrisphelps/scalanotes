@@ -12,4 +12,7 @@ Finished suggestions
 Dec 4
 More week 5 videos
 
+Dec 5
+More vids
+Worked on map vs flatMap blog post
 
