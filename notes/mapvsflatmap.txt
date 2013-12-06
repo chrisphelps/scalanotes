@@ -1,0 +1,48 @@
+map and flatMap
+
+In this guest post, I wanted to address a few thoughts about map and flatMap. A number of types in the standard scala libraries (so-called "monads", though there's a little more to monads than this - but this is not a monad post) have these helpful methods. Both map and flatMap are higher-order functions, meaning they take functions as arguments and apply these to the type's contents.
+
+Before going further, I'd like to comment on the naming of map and the relationship between the operation and the data type which share this name. These two uses of map are slightly different, but there is a relationship. First, the map data type, as you likely know, is a type which contains key-value pairs. If you think about this slightly differently, this is a conceptual function which "maps" a relationship - given a key input, it produces a value output. The map operation on a collection applies a mapping function to all the contents of the collection.  You could even pass a map data type to a map function to convert a collection of keys into a collection of values!
+
+[put an example here]
+
+Likewise, the first exposure to flatMap is usually in a collection context. Suppose instead of a squaring function that returns a single value, you have a mapping function that returns a list from a given input.  
+
+List(1,2,3) map { x => for y <- (1 to x).asList yield y }  
+
+In this case, instead of a simple list List[Int], we get a nested list List[List[Int]]:  
+
+List(List(1), List(1,2), List(1,2,3))
+
+This may be what we want, but suppose we wanted to have a simple list. We can "flatten" this nested list, to remove a level of wrapping and give us a single list. FlapMap does that for us in one step. So far so good.
+
+So thinking about collections, it seems like we will be using the map operation much more frequently than we use the flatMap operation. After all, we are much more likely to use a function which gives us a single output for an input rather than one that creates nested collections. Again, we will have cases where we DO want that, but they are less common than the straightforward case.
+
+But this isn't the case for other monad types. Let's look at the type Try. The Try type is a type which represents an operation that can fail. Try has two values - Success(t) which contains a successful result t; and Failure(ex) which contains an exception. In other words, instead of throwing the exception, we've grabbed it and stuffed it in a box. Like crackerjacks (or whatever these are called in the UK) you don't know until you look in the box whether it contains the Success or the Failure.  You can find this out with pattern matching:  
+
+myTry match { 
+  case Success(t) => println("I got " + t) 
+  case Failure(ex) => println("I got an exception")
+}
+
+This is where I started to struggle to adapt my intuition of List map and flatMap, to the Try ideas of map and flatMap. So what would these mean?  Map takes a function which takes a value (of type T) and converts it to another value (of type U, which may or may not be the same as type T). Now map on Try has a specific behavior guarantee: for Success values, it will call the function on the value in the Success, and wrap the result back up in a Try.  
+
+case Success(t) => Try(f(t))  
+
+For a Failure, it just returns this - in other words, it skips calling the function, and just returns the original failure.
+
+But what if our mapping function wants to be able to represent failures? It's not hard to imagine wanting to have a sequence of operations, each of which could throw some exception. In this case, calling map on the first Try, will call the mapping function, which itself returns a Try value, and wrap that in a Try value. 
+
+[example]
+
+So we've gone from Try[T] to Try[Try[T]], just because we wanted to be able to have our mapping function return some exception cases. This could easily get out of hand if we want to keep mapping more and more functions which could return exceptional cases with Try! What can we do?
+
+If we look back at our List example, we see that this is really the same case as when our mapping function itself returned a List.  There we went from List[T] to List[List[T]], while here we're going from Try[T] to Try[Try[T]].  Our solution here is the same as it was there: we need to flatten a layer of nesting. We could take our first result, map our function, and then flatten the result, or we could do the map and the flatten in one step: myTry flatMap { dangerOperation }
+
+Learning map on List gave us this easy (or at least, easier) intuition for what mapping a higher order function onto that List means. But this didn't give us quite a rich enough intuition for what flatMap means. Applying functions that create lists to members of a list is just not a common enough pattern to really feel it in our bones. Other types, though, will give us the nested construction as our default pattern. It's quite easy, maybe even expected, to run a sequence of steps that each produce exceptions wrapped in Try. A sequence of operations where each one may return an error value wrapped in the Option monad seems pretty likely. When we step up to doing asynchronous coding, we can easily envision combining a sequence of operations that will complete in the future, hooking each up to be run in sequence whenever the previous step completes, by using the Future monad. In all these cases, flatMap is a much more natural and basic operation than map, which would keep wrapping each step in another level of nesting.
+
+All of this has nice implications for for-comprehensions, which rely heavily on flatMap internally. But let's leave that for further study, and maybe another post.
+
+
+
+
