@@ -16,3 +16,6 @@ Dec 5
 More vids
 Worked on map vs flatMap blog post
 
+Dec 6
+Finished week 5 vids
+
