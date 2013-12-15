@@ -37,3 +37,6 @@ Actorbintree assignment
 Dec 12
 Reactive week 6 vids
 
+Dec 13
+Global Day of Coderetreat. 4 Scala iterations including a great functional one!
+
