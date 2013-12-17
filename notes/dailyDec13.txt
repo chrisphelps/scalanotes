@@ -43,3 +43,6 @@ Global Day of Coderetreat. 4 Scala iterations including a great functional one!
 Dec 14
 Actorbintree assignment
 
+Dec 15
+More Actorbintree
+
