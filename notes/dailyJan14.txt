@@ -4,3 +4,6 @@ Thinking and journal notes for taikai
 Jan 2
 More planning for taikai
 
+Jan 3
+Some reading and experimentation with Play
+
