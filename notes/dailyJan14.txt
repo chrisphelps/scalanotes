@@ -7,3 +7,6 @@ More planning for taikai
 Jan 3
 Some reading and experimentation with Play
 
+Jan 6
+More planning for taikai play + angular first steps
+
